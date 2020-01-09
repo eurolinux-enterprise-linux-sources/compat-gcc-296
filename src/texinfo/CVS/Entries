@@ -1,0 +1,45 @@
+D/cygnus////
+D/doc////
+D/emacs////
+D/info////
+D/intl////
+D/lib////
+D/libtxi////
+D/makeinfo////
+D/po////
+D/testsuite////
+D/util////
+/ABOUT-NLS/1.4/Tue Mar 24 19:40:18 1998//
+/AUTHORS/1.3/Tue Mar 24 18:04:52 1998//
+/COPYING/1.4/Tue Mar 24 18:04:53 1998//
+/ChangeLog/1.35/Tue Jun  1 23:52:39 1999//
+/INSTALL/1.4/Tue Mar 24 18:04:56 1998//
+/INTRODUCTION/1.5/Wed May  6 21:08:56 1998//
+/Makefile.am/1.6/Thu Jan 21 10:39:10 1999//
+/Makefile.in/1.13/Thu Jan 21 10:39:11 1999//
+/NEWS/1.4/Tue Mar 24 19:40:24 1998//
+/README/1.5/Wed May  6 21:08:58 1998//
+/README-alpha/1.3/Tue Mar 24 18:05:04 1998//
+/THANKS/1.3/Tue Mar 24 18:05:02 1998//
+/TODO/1.4/Tue Mar 24 19:40:26 1998//
+/acconfig.h/1.4/Tue Jun  1 23:52:40 1999//
+/acinclude.m4/1.5/Wed May  6 21:08:59 1998//
+/aclocal.m4/1.8/Wed May  6 21:09:00 1998//
+/config.guess/1.5/Sun May 30 16:14:06 1999//
+/config.h.in/1.4/Tue Mar 24 19:40:28 1998//
+/config.sub/1.5/Sun May 30 16:14:07 1999//
+/configure/1.9/Sun Apr 12 20:00:33 1998//
+/configure.in/1.8/Sun Apr 12 20:00:34 1998//
+/dir/1.3/Tue Mar 24 18:05:03 1998//
+/dir-example/1.4/Tue Mar 24 19:40:32 1998//
+/dir.info-template/1.3/Tue Mar 24 18:05:14 1998//
+/gen-info-dir/1.3/Tue Mar 24 18:05:16 1998//
+/gpl.texinfo/1.3/Tue Mar 24 18:05:17 1998//
+/lgpl.texinfo/1.3/Tue Mar 24 18:05:18 1998//
+/liblic.texi/1.3/Tue Mar 24 18:05:19 1998//
+/license.texi/1.3/Tue Mar 24 18:05:20 1998//
+/missing/1.4/Tue Mar 24 19:40:33 1998//
+/mkinstalldirs/1.4/Tue Mar 24 19:40:34 1998//
+/stamp-h.in/1.3/Tue Mar 24 18:05:23 1998//
+/texinfo.tex/1.3/Tue Mar 24 18:05:24 1998//
+/texinfo.texi/1.3/Tue Mar 24 18:05:26 1998//

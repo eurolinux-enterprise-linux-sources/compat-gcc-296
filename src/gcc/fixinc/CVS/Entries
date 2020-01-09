@@ -1,0 +1,27 @@
+/fixinc.dgux/1.6/Fri May 28 21:33:05 1999//
+/fixinc.interix/1.2/Sun Apr 11 11:35:44 1999//
+/fixinc.irix/1.9/Fri Apr  7 21:02:31 2000//
+/fixinc.ptx/1.6/Thu Feb 17 15:31:16 2000//
+/fixinc.svr4/1.9/Thu Feb 17 15:31:16 2000//
+/fixinc.winnt/1.6/Thu Feb 17 15:31:16 2000//
+/fixinc.wrap/1.6/Fri Apr  7 21:02:31 2000//
+/gnu-regex.h/1.3/Wed Jan 26 07:38:30 2000//
+/procopen.c/1.6/Mon Mar  6 17:38:07 2000//
+/server.h/1.5/Tue Oct 12 16:02:30 1999//
+/mkfixinc.sh/1.22/Tue May  9 14:08:24 2000//
+/gnu-regex.c/1.5/Fri May 12 07:53:00 2000//
+/genfixes/1.10/Mon May 15 05:16:58 2000//
+/Makefile.in/1.23/Thu Jun  1 09:56:58 2000//
+/README/1.10/Thu Jun  1 09:56:58 2000//
+D/tests////
+/server.c/1.15/Wed Jun  7 06:41:17 2000//
+/fixlib.c/1.12/Thu Jul 13 12:53:35 2000//
+/fixtests.c/1.19/Thu Jul 13 12:53:35 2000//
+/check.tpl/1.10/Mon Jul 24 09:04:22 2000//
+/fixincl.c/1.35/Mon Jul 24 09:04:22 2000//
+/fixincl.sh/1.32/Mon Jul 24 09:04:22 2000//
+/fixfixes.c/1.32/Thu Jul 27 17:46:51 2000//
+/fixincl.tpl/1.16/Thu Jul 27 17:46:51 2000//
+/fixincl.x/1.84/Thu Jul 27 17:46:51 2000//
+/fixlib.h/1.16/Thu Jul 27 17:46:51 2000//
+/inclhack.def/1.86/Thu Jul 27 17:46:51 2000//

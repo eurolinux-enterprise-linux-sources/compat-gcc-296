@@ -1,0 +1,108 @@
+D/1750a////
+D/a29k////
+D/alpha////
+D/arc////
+D/arm////
+D/c4x////
+D/clipper////
+D/convex////
+D/dsp16xx////
+D/elxsi////
+D/fr30////
+D/fx80////
+D/gmicro////
+D/h8300////
+D/i370////
+D/i386////
+D/i860////
+D/i960////
+D/m32r////
+D/m68k////
+D/m88k////
+D/mips////
+D/mn10200////
+D/mn10300////
+D/msdos////
+D/ns32k////
+D/pa////
+D/pdp11////
+D/pyr////
+D/romp////
+D/rs6000////
+D/sh////
+D/sparc////
+D/spur////
+D/tahoe////
+D/v850////
+D/vax////
+D/we32k////
+D/winnt////
+D/pj////
+D/avr////
+D/mcore////
+D/ia64////
+D/d30v////
+/README/1.2/Wed Dec 16 20:59:37 1998//
+/aoutos.h/1.3/Sun Feb 21 19:39:50 1999//
+/dbx.h/1.2/Wed Dec 16 20:59:39 1998//
+/dbxcoff.h/1.3/Thu May 20 01:54:27 1999//
+/dbxelf.h/1.3/Thu Jul  8 13:52:20 1999//
+/float-i128.h/1.2/Wed Dec 16 20:59:42 1998//
+/float-i32.h/1.2/Wed Dec 16 20:59:43 1998//
+/float-i386.h/1.2/Wed Dec 16 20:59:44 1998//
+/float-i64.h/1.2/Wed Dec 16 20:59:45 1998//
+/float-m68k.h/1.2/Wed Dec 16 20:59:46 1998//
+/float-sh.h/1.3/Wed Dec 16 20:59:47 1998//
+/float-sparc.h/1.3/Tue Dec 14 12:17:56 1999//
+/freebsd.h/1.1/Tue Nov 23 06:17:32 1999//
+/gnu.h/1.3/Wed Sep 15 21:41:13 1999//
+/gofast.h/1.4/Thu Sep  9 07:07:41 1999//
+/interix.h/1.3/Wed Sep 15 21:41:13 1999//
+/libgloss.h/1.3/Tue Aug  3 00:06:05 1999//
+/linux-aout.h/1.5/Wed Sep 15 21:41:13 1999//
+/linux.h/1.10/Wed Sep 15 21:41:13 1999//
+/lynx-ng.h/1.3/Wed Sep 15 21:41:13 1999//
+/lynx.h/1.3/Wed Sep 15 21:41:13 1999//
+/netbsd.h/1.6/Mon Mar 13 17:02:18 2000//
+/nextstep21.h/1.3/Tue Aug 31 02:16:30 1999//
+/psos.h/1.4/Sun Oct 24 19:38:53 1999//
+/ptx4.h/1.9/Mon Mar 13 17:02:18 2000//
+/rtems.h/1.1/Wed Jan 12 10:47:36 2000//
+/svr3.h/1.4/Tue Jan 18 21:33:02 2000//
+/svr4.h/1.23/Mon Mar  6 17:37:47 2000//
+/t-freebsd/1.3/Fri Oct 15 09:04:53 1999//
+/t-freebsd-thread/1.1/Mon Nov 15 09:11:42 1999//
+/t-gnu/1.3/Wed Mar 17 22:18:49 1999//
+/t-install-cpp/1.2/Tue Mar  2 00:59:35 1999//
+/t-libc-ok/1.2/Wed Dec 16 21:00:08 1998//
+/t-linux/1.3/Wed Dec 16 21:00:09 1998//
+/t-linux-aout/1.3/Wed Dec 16 21:00:10 1998//
+/t-linux-gnulibc1/1.2/Wed Dec 16 21:00:11 1998//
+/t-netbsd/1.3/Wed Dec 16 21:00:12 1998//
+/t-openbsd/1.2/Sat Sep  4 15:08:55 1999//
+/t-openbsd-thread/1.2/Sat Sep  4 15:08:55 1999//
+/t-rtems/1.4/Wed Mar 31 00:50:40 1999//
+/t-svr4/1.4/Wed Dec 16 21:00:14 1998//
+/tm-dwarf2.h/1.3/Thu Feb 17 15:30:45 2000//
+/x-interix/1.2/Sat Apr 10 05:15:24 1999//
+/x-linux/1.2/Wed Dec 16 21:00:15 1998//
+/x-linux-aout/1.2/Wed Dec 16 21:00:16 1998//
+/x-lynx/1.2/Wed Dec 16 21:00:17 1998//
+/x-svr4/1.2/Wed Dec 16 21:00:18 1998//
+/xm-alloca.h/1.2/Wed Dec 16 21:00:19 1998//
+/xm-freebsd.h/1.4/Wed Dec 16 21:00:20 1998//
+/xm-gnu.h/1.3/Wed Dec 16 21:00:21 1998//
+/xm-interix.h/1.3/Mon Jan  3 06:34:58 2000//
+/xm-linux.h/1.9/Tue Apr 25 19:02:58 2000//
+/xm-lynx.h/1.2/Wed Dec 16 21:00:24 1998//
+/xm-openbsd.h/1.2/Sat Sep  4 15:08:55 1999//
+/xm-std32.h/1.2/Wed Dec 16 21:00:26 1998//
+/xm-svr3.h/1.2/Wed Dec 16 21:00:27 1998//
+/xm-svr4.h/1.5/Mon Jan  3 06:34:58 2000//
+/openbsd.h/1.6/Fri May  5 19:44:28 2000//
+/nextstep.c/1.9/Wed Jun  7 06:41:10 2000//
+/nextstep.h/1.10/Wed Jun  7 06:41:10 2000//
+/float-vax.h/1.3/Tue Jun 13 05:18:25 2000//
+/elfos.h/1.18/Fri Jun 16 11:10:29 2000//
+/fp-bit.c/1.20/Fri Jul  7 19:40:08 2000//
+/fp-bit.h/1.1/Mon Jul  3 15:06:12 2000//

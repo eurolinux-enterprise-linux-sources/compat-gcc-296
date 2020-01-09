@@ -1,0 +1,24 @@
+/ChangeLog/1.3/Tue Mar 24 19:40:59 1998//
+/Makefile.in/1.3/Tue Mar 24 19:41:00 1998//
+/VERSION/1.3/Tue Mar 24 19:41:01 1998//
+/bindtextdom.c/1.3/Tue Mar 24 19:41:02 1998//
+/cat-compat.c/1.3/Tue Mar 24 19:41:03 1998//
+/dcgettext.c/1.3/Tue Mar 24 19:41:04 1998//
+/dgettext.c/1.2/Tue Mar 24 18:07:08 1998//
+/explodename.c/1.4/Tue Jun  1 23:52:42 1999//
+/finddomain.c/1.3/Tue Mar 24 19:41:06 1998//
+/gettext.c/1.3/Tue Mar 24 19:41:07 1998//
+/gettext.h/1.3/Tue Mar 24 19:41:08 1998//
+/gettextP.h/1.2/Tue Mar 24 18:07:13 1998//
+/hash-string.h/1.3/Tue Mar 24 19:41:09 1998//
+/intl-compat.c/1.2/Tue Mar 24 18:07:15 1998//
+/l10nflist.c/1.3/Tue Mar 24 19:41:10 1998//
+/libgettext.h/1.3/Tue Mar 24 19:41:11 1998//
+/linux-msg.sed/1.2/Tue Mar 24 18:07:18 1998//
+/loadinfo.h/1.2/Tue Mar 24 18:07:19 1998//
+/loadmsgcat.c/1.3/Tue Mar 24 19:41:12 1998//
+/localealias.c/1.3/Tue Mar 24 19:41:13 1998//
+/po2tbl.sed.in/1.2/Tue Mar 24 18:07:22 1998//
+/textdomain.c/1.3/Tue Mar 24 19:41:14 1998//
+/xopen-msg.sed/1.2/Tue Mar 24 18:07:24 1998//
+D

@@ -1,0 +1,21 @@
+D/bits////
+D/sys////
+/assert.h/1.1/Fri Apr 21 20:33:33 2000//
+/errno.h/1.1/Fri Apr 21 20:33:33 2000//
+/float.h/1.1/Fri Apr 21 20:33:33 2000//
+/limits.h/1.1/Fri Apr 21 20:33:33 2000//
+/ctype.h/1.2/Sun May 21 19:13:32 2000//
+/libio.h/1.2/Sun May 21 19:13:32 2000//
+/locale.h/1.2/Sun May 21 19:13:32 2000//
+/math.h/1.2/Sun May 21 19:13:32 2000//
+/setjmp.h/1.2/Sun May 21 19:13:32 2000//
+/signal.h/1.2/Sun May 21 19:13:32 2000//
+/stdarg.h/1.2/Sun May 21 19:13:32 2000//
+/stddef.h/1.2/Sun May 21 19:13:32 2000//
+/stdio.h/1.2/Sun May 21 19:13:32 2000//
+/stdlib.h/1.2/Sun May 21 19:13:32 2000//
+/string.h/1.2/Sun May 21 19:13:32 2000//
+/unistd.h/1.2/Sun May 21 19:13:32 2000//
+/wctype.h/1.2/Sun May 21 19:13:32 2000//
+/time.h/1.3/Thu Jun  1 09:57:17 2000//
+/wchar.h/1.3/Thu Jun  1 09:57:17 2000//

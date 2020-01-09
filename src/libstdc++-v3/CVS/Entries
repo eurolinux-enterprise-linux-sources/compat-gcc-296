@@ -1,0 +1,27 @@
+D/backward////
+D/bits////
+D/config////
+D/docs////
+D/ext////
+D/libio////
+D/math////
+D/shadow////
+D/src////
+D/std////
+D/testsuite////
+/README/1.4/Thu May  4 15:05:44 2000//
+/configure.host/1.1/Fri Apr 21 20:33:28 2000//
+/mknumeric_limits/1.2/Thu May  4 13:07:08 2000//
+/mkc++config/1.2/Thu Jun  1 09:57:15 2000//
+/mkcshadow/1.5/Thu Jun  1 09:57:15 2000//
+/acconfig.h/1.6/Fri Jun 23 10:06:30 2000//
+/config.h.in/1.8/Fri Jun 23 10:06:30 2000//
+/mkinclosure/1.2/Fri Jul  7 19:40:20 2000//
+/mkcheck.in/1.16/Mon Jul 10 06:08:46 2000//
+/Makefile.am/1.7/Tue Jul 25 19:16:25 2000//
+/configure.in/1.15/Thu Jul 27 17:46:59 2000//
+/ChangeLog/1.116/Mon Jul 31 18:02:23 2000//
+/Makefile.in/1.22/Mon Jul 31 18:02:24 2000//
+/acinclude.m4/1.50/Mon Jul 31 18:02:24 2000//
+/aclocal.m4/1.52/Mon Jul 31 18:02:25 2000//
+/configure/1.49/Mon Jul 31 18:02:26 2000//
